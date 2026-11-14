@@ -1,0 +1,13 @@
+pandas
+numpy
+scipy
+scikit-learn
+matplotlib
+seaborn
+streamlit
+jupyter
+ipykernel
+sentence-transformers
+google-api-python-client
+python-dotenv
+openpyxl
